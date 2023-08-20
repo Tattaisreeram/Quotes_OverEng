@@ -1,4 +1,7 @@
 #QuotesApp
+
+
+
 QuotesApp is a simple and inspiring quotes application that brings a daily dose of motivation and wisdom to your fingertips. Whether you're seeking inspiration, positivity, or a fresh perspective, QuotesApp provides a collection of thought-provoking quotes from a variety of sources. With an intuitive user interface and a seamless experience, QuotesApp is designed to uplift and enrich your day.
 
 Features
